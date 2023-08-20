@@ -35,6 +35,7 @@ Coriander before and after drying
 
 
 ![2](https://github.com/yash379/vegetable-dehydrator/assets/66986901/52b10ed6-e2c5-4ab2-b964-8db646d9cd68)
+
 Fenugreek before and after drying
 
 
