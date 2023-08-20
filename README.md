@@ -25,19 +25,11 @@ and programmed into the micro-controller
 ![image](https://github.com/yash379/vegetable-dehydrator/assets/66986901/c947e533-d229-4100-981b-27f21bbaacb9)
 
 
-Temperature and Humidity Observation Using 1 White
-LED and 3 Yellow LEDs
-
-![image](https://github.com/yash379/vegetable-dehydrator/assets/66986901/68007035-bd2a-4a70-976d-c2efeb288ed2)
-
-
-Temperature and Humidity Observation Using Wrapping
-Foil
-![image](https://github.com/yash379/vegetable-dehydrator/assets/66986901/d8f60076-d91a-4691-9f97-fcc2763c868c)
 
 Observations on Leafy Vegetables
 
 ![1](https://github.com/yash379/vegetable-dehydrator/assets/66986901/6275e2c8-c098-4c57-aa75-de4658e212ed)
+
 Coriander before and after drying
 
 
